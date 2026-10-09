@@ -1,0 +1,6 @@
+{
+  "extraKnownMarketplaces": {
+    "cafea-mods": { "source": { "source": "github", "repo": "andreicreteanu06-design/cafea" } }
+  },
+  "enabledPlugins": { "dev-radar@cafea-mods": true }
+}

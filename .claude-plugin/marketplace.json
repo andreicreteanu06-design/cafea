@@ -1,0 +1,5 @@
+{
+  "name": "cafea-mods",
+  "owner": { "name": "andreicreteanu06-design" },
+  "plugins": [{ "name": "dev-radar", "source": "./" }]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "dev-radar",
+  "version": "0.1.0",
+  "description": "Panou lateral cu subagenții și fișierele editate, plus contor de tokeni și avertizări utile în dezvoltare.",
+  "types": "./types/index.d.ts"
+}
